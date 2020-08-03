@@ -13,8 +13,3 @@ meus codigos
 
 email para contato:
 pirralhap@gmail.com
-
-telefone para contato:
-+55 015 997694579 - Pedro Pirralha
-+55 015 996926311 - Orestes Pirralha
-
