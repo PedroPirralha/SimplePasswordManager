@@ -1,0 +1,20 @@
+color = {'red':'\033[31m',
+    'green': '\033[32m',
+    'blue': '\033[34m',
+    'cyan' : '\033[36m',
+    'magenta' : '\033[35m',
+    'yellow' : '\033[33m',
+    'black' : '\033[30m',
+    'white' : '\033[37m',
+    'clear' : '\033[0;0m',
+    'bold' : '\033[1m',
+    'reverse' : '\033[2m',
+    'black-b' : '\033[40m', #-b from background
+    'red-b' : '\033[41m',
+    'green-b' : '\033[42m',
+    'yellow-b' : '\033[43m',
+    'blue-b' : '\033[44m',
+    'magenta-b' : '\033[45m',
+    'cyan-b' : '\033[46m',
+    'white-b' : '\033[47m' 
+    }
