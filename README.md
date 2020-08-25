@@ -5,10 +5,12 @@
 PT-BR
 -----
 Versões anteriores a 0.0.4 estão com erro na criação na tabela, na versão 0.0.4 será corrigido
+
 requisitos: python3 ou versões mais recentes, e saber abrir arquivos via terminal
 
-para abrir :
 
+para abrir :
+------------
   1 abra cmd
 
   2 digite: cd "diretorio do arquivo"
@@ -20,10 +22,11 @@ English
 -------
 
 Versions prior to 0.0.4 have an error creating the table, version 0.0.4 will be corrected
+
 requirements: python3 or newer versions, and knowing how to open files via terminal
 
 to open :
-
+----------
   1 open cmd
 
   2 type it: cd "file directory"
