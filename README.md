@@ -8,9 +8,9 @@ Versões anteriores a 0.0.4 estão com erro na criação na tabela, na versão 0
 requisitos: python3 ou versões mais recentes, e saber abrir arquivos via terminal
 
 para abrir :
-  1 abra cmd
-  2 cd "diretorio do arquivo"
-  3 python SimplePasswordManager-V_0.0.4.py
+ 1 abra cmd
+ 2 cd "diretorio do arquivo"
+ 3 python SimplePasswordManager-V_0.0.4.py
   
 -------------------------------------------------------------------------------------------------
 English
