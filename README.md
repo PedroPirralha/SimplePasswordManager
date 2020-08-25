@@ -36,6 +36,7 @@ to open :
 
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 esses programas foram feitos com a intenção de me
 aperfeiçoar na programação, aceito opiniões 
 caso saiba de alguma alteração q possa ser feito
