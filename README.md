@@ -11,7 +11,7 @@ para abrir :
 
   1 abra cmd
 
-  2 cd "diretorio do arquivo"
+  2 digite: cd "diretorio do arquivo"
 
   3 python SimplePasswordManager-V_0.0.4.py
   
@@ -26,7 +26,7 @@ to open :
 
   1 open cmd
 
-  2 cd "file directory"
+  2 type it: cd "file directory"
 
   3 python SimplePasswordManager-V_0.0.4.py
 
