@@ -11,6 +11,7 @@ para abrir :
   1 abra cmd
   2 cd "diretorio do arquivo"
   3 python SimplePasswordManager-V_0.0.4.py
+  
 -------------------------------------------------------------------------------------------------
 English
 -------
