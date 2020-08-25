@@ -1,7 +1,7 @@
 #SimplePasswordManager
 
 esses programas foram feitos com a intenção de me
-aperfeiçoar na programação, aceito palpites 
+aperfeiçoar na programação, aceito opiniões 
 caso saiba de alguma alteração q possa ser feito
 vou postar os codigos do programa toda vez que
 eu fizer uma alteração, o projeto acabara quando o 
