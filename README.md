@@ -34,6 +34,8 @@ to open :
   3 python SimplePasswordManager-V_0.0.4.py
 
 
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 esses programas foram feitos com a intenção de me
 aperfeiçoar na programação, aceito opiniões 
 caso saiba de alguma alteração q possa ser feito
